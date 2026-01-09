@@ -5,6 +5,7 @@ I ❤ Building Web App
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=twitter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00bcff?style=for-the-badge&logo=twitter&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=twitter&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=twitter&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=twitter&logoColor=white)

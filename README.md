@@ -12,8 +12,6 @@ I ❤ Building Web App
 ![PHP](https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=twitter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=twitter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-34B27B?style=for-the-badge&logo=twitter&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ValkyRiE2117&theme=android-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 <!--
 **ValKyRiE2117/ValKyRiE2117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

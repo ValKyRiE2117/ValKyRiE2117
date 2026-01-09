@@ -2,7 +2,7 @@
 
 I ❤ Building Web App
 
-## 💻 Tech Stack:
+## 💻 My Fav Stack:
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=twitter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00bcff?style=for-the-badge&logo=twitter&logoColor=white)
@@ -11,6 +11,7 @@ I ❤ Building Web App
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=twitter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=twitter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=twitter&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-34B27B?style=for-the-badge&logo=twitter&logoColor=white)
 <!--
 **ValKyRiE2117/ValKyRiE2117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
